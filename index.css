@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("deps/Roboto-Bold.ttf");
+  }
+#pp{
+    opacity: 0;
+    font-size: 24px; 
+    transition: 300ms ease-in-out; 
+    color: white; 
+    font-family: "Roboto-Bold";
+    /* text-align: center;  */
+    /* width: 300px; */
+    display:inline;
+}
+#ppIfFc{
+  opacity: 0;
+  font-size: 24px; 
+  transition: 300ms ease-in-out; 
+  color: white; 
+  font-family: "Roboto-Bold";
+  /* text-align: center;  */
+  /* width: 300px; */
+  display:inline;
+}
+
+#thing{
+ 
+  color: white;  
+  width: 300px;
+  font-size: 24px; 
+  font-family: "Roboto-Bold";
+  white-space: nowrap;
+}
